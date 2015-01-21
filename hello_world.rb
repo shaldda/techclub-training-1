@@ -1,3 +1,4 @@
+# Print a nice Batman logo
 data = '       _==/          i     i          \==_
      /XX/            |\___/|            \XX\
    /XXXX\            |XXXXX|            /XXXX\
