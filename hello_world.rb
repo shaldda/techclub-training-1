@@ -11,4 +11,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     \XX\       \X/    \XXX/    \X/       /XX/
        "\       "      \X/      "      /"'
 
-puts data
+for i in data.length
+     puts data[i]
+end
