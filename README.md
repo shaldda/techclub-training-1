@@ -2,3 +2,5 @@
 Techclub GitHub training at the VU
 
 I didn't like the old version.
+
+Tap tap tap. Is this thing on?
